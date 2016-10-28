@@ -5,11 +5,14 @@
    max-width: initial;
 }
 body {
-  background-color: #9C9F84;
+  background-color: #7B3738;
 }
 .center-text{
   text-align: center;
 }
-#main li{
-  list-style: none;
+#main_nav li{
+  border-right: 2px solid black;
+}
+#main_nav a{
+  color: inherit;
 }
