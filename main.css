@@ -5,7 +5,7 @@
    max-width: initial;
 }
 body {
-  background-color: #7B3738;
+  background-color: sand;
 }
 .center-text{
   text-align: center;
@@ -15,4 +15,12 @@ body {
 }
 #main_nav a{
   color: inherit;
+}
+.log-in-form {
+  border: 1px solid #cacaca;
+  padding: 2rem;
+  border-radius: 3px;
+}
+.space-out{
+  margin: 0rem 2rem 0rem 2rem;
 }
